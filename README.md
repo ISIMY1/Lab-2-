@@ -13,7 +13,6 @@ You will learn how to manage Microsoft Entra ID by creating and securing users, 
 This lab utilises Microsoft Entra ID, Azure AD Connect for directory synchronisation, Privileged Identity Management, Conditional Access, Multi-Factor Authentication, Self-Service Password Reset, Access Reviews, Entitlement Management, and, optionally, Active Directory Domain Services hosted on Azure virtual machines.
 
 ## Steps
-drag & drop screenshots here or use Imgur and reference them using imgsrc
 
 Every screenshot should include text that explains its content.
 You will begin by exploring the basics of identity and familiarizing yourself with the objects in Entra ID such as users, groups, devices, and applications. Next, you will create new users and groups, assigning them as needed to test access and collaboration scenarios. If you are working with a hybrid environment, you will install and configure Azure AD Connect to synchronise your on-premises directory with Entra ID.
